@@ -1,2 +1,2 @@
-# dileepchidurala.github.io
+# DileepChidurala
 My Portfolio website
